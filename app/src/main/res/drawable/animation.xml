@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- recursos para hacer la animación -->
+    <item
+        android:drawable="@drawable/ic_brightness_1"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ic_brightness_2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ic_brightness_3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ic_brightness_4"
+        android:duration="400"/>
+
+</animation-list>
